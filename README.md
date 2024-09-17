@@ -1,1 +1,1 @@
-# lab1_os
+# lab_os
